@@ -1,0 +1,7 @@
+{
+    "wifidogserver-host":"127.0.0.1",
+    "wifidogserver-port":"20000",
+    "static_path":"/usr/local/openresty/nginx/wac-exb-go/www/static",
+    "ssl_cert":"",
+    "ssl_key":""
+}
